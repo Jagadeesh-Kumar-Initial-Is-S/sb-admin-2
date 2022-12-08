@@ -2,6 +2,8 @@ Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email addres
 
 https://github.com/Jagadeesh-Kumar-Initial-Is-S/sb-admin-2
 
+https://subtle-cat-5ac932.netlify.app/
+
 # Task - sb admin 2
 Task - https://startbootstrap.com/previews/sb-admin-2 value from component need to show to other component
 <hr/>
